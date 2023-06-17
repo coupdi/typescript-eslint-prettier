@@ -1,3 +1,6 @@
+#This was found via youtube video, found at
+https://www.youtube.com/watch?v=11jpa8e5jEQ
+
 # logrocket-eslint-prettier-typescript
 
 ✨ [Configuring ESLint And Prettier For TypeScript](https://blog.logrocket.com/configuring-eslint-and-prettier-for-typescript) ✨
